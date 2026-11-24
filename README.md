@@ -1,10 +1,18 @@
 # news-image-20261124
 
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/SYOUTOUI/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/SYOUTOUI/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 Sum up 24 November 2026's world news in one image.
 
 Entry for https://make.fun/bounty/news-image-20261124
 ($100 prize pool, 50 places; deadline 2026-11-26 09:00 JST,
 Round 2 closes 2026-11-25 09:00 JST).
+
+Run: `python3 main.py` — writes `/output/entry.png`.
+
+Referral: https://make.fun/r/nde51zwq
 
 ## What the image shows
 
